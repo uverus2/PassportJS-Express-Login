@@ -16,12 +16,12 @@ The purpose of the repo is to understand passport js and apply multiple strategi
 - Any google paths within the routes should be changed as well. 
 
 ### References 
-Net Ninja Tutorial - [here](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jdm7QX143aMLAqyM-jTZ2x)
-Traversy Media Local passport authentication tutorial - [here](https://www.youtube.com/watch?v=6FOq4cUdH8k&t=2020s)
-Express Validator - [here](https://www.npmjs.com/package/express-validator)
-Password Validator - [here](https://github.com/tarunbatra/password-validator)
-Passport with multiple strategies - [here](https://gist.github.com/joshbirk/1732068)
-Hidden passport manual - [here](https://github.com/jwalton/passport-api-docs)
+- Net Ninja Tutorial - [here](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jdm7QX143aMLAqyM-jTZ2x)
+- Traversy Media Local passport authentication tutorial - [here](https://www.youtube.com/watch?v=6FOq4cUdH8k&t=2020s)
+- Express Validator - [here](https://www.npmjs.com/package/express-validator)
+- Password Validator - [here](https://github.com/tarunbatra/password-validator)
+- Passport with multiple strategies - [here](https://gist.github.com/joshbirk/1732068)
+- Hidden passport manual - [here](https://github.com/jwalton/passport-api-docs)
 
 ## Be responsible with my google credentials in keys.js
 
